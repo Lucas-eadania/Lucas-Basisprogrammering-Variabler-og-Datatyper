@@ -1,0 +1,7 @@
+C:\Users\findf\Documents\GitHub\Lucas-Basisprogrammering-Variabler-og-Datatyper\Lucas-Variabler-og-Datatyper-Opgave\Lucas-Variabler-og-Datatyper-Opgave\bin\Debug\Lucas-Variabler-og-Datatyper-Opgave.exe.config
+C:\Users\findf\Documents\GitHub\Lucas-Basisprogrammering-Variabler-og-Datatyper\Lucas-Variabler-og-Datatyper-Opgave\Lucas-Variabler-og-Datatyper-Opgave\bin\Debug\Lucas-Variabler-og-Datatyper-Opgave.exe
+C:\Users\findf\Documents\GitHub\Lucas-Basisprogrammering-Variabler-og-Datatyper\Lucas-Variabler-og-Datatyper-Opgave\Lucas-Variabler-og-Datatyper-Opgave\bin\Debug\Lucas-Variabler-og-Datatyper-Opgave.pdb
+C:\Users\findf\Documents\GitHub\Lucas-Basisprogrammering-Variabler-og-Datatyper\Lucas-Variabler-og-Datatyper-Opgave\Lucas-Variabler-og-Datatyper-Opgave\obj\Debug\Lucas-Variabler-og-Datatyper-Opgave.csproj.AssemblyReference.cache
+C:\Users\findf\Documents\GitHub\Lucas-Basisprogrammering-Variabler-og-Datatyper\Lucas-Variabler-og-Datatyper-Opgave\Lucas-Variabler-og-Datatyper-Opgave\obj\Debug\Lucas-Variabler-og-Datatyper-Opgave.csproj.CoreCompileInputs.cache
+C:\Users\findf\Documents\GitHub\Lucas-Basisprogrammering-Variabler-og-Datatyper\Lucas-Variabler-og-Datatyper-Opgave\Lucas-Variabler-og-Datatyper-Opgave\obj\Debug\Lucas-Variabler-og-Datatyper-Opgave.exe
+C:\Users\findf\Documents\GitHub\Lucas-Basisprogrammering-Variabler-og-Datatyper\Lucas-Variabler-og-Datatyper-Opgave\Lucas-Variabler-og-Datatyper-Opgave\obj\Debug\Lucas-Variabler-og-Datatyper-Opgave.pdb
